@@ -54,3 +54,15 @@ body{
 .movie:hover .movie-overview {
     transform: translateY(0%);
 }
+
+.green{
+    color:chartreuse;
+}
+
+.yellow{
+    color:gold;
+}
+
+.red{
+    color: #f00;
+}
